@@ -1,0 +1,35 @@
+_repo: On-the-Nature-of-Things_785
+_version: 0.0.1
+alternative_title: De rerum natura. English
+contributor:
+  translator:
+    agent_name: Leonard, William Ellery
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '415'
+    url: http://www.gutenberg.org/2009/agents/415
+creator:
+  author:
+    agent_name: Lucretius Carus, Titus
+    alias: Carus, Titus Lucretius
+    birthdate: -95
+    deathdate: -55
+    gutenberg_agent_id: '414'
+    url: http://www.gutenberg.org/2009/agents/414
+    wikipedia: http://en.wikipedia.org/wiki/Lucretius
+description: ''
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Philosophy, Ancient -- Poetry'
+- !lcsh 'Didactic poetry, Latin -- Translations into English'
+- GITenberg
+title: On the Nature of Things
+url: http://www.gutenberg.org/ebooks/785
